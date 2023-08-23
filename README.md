@@ -5,6 +5,8 @@ Hello, my name is Nouhaila!
 
 I am currently a Data Analyst at Intelcia IT Solutions company, starting in November 2022.
 
+You can check my resume [here](/Nouhaila_ALAMI_Data_Analyst_Resume.pdf)!
+
 This repository has been set up to share my skills, exchange projects, and track my progress on topics related to data analytics and data science.
 
 ## Portfolio Projects
